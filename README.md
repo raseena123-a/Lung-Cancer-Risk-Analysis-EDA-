@@ -1,7 +1,7 @@
 # Lung-Cancer-Risk-Analysis-EDA-
 This project performs exploratory data analysis (EDA) on a lung cancer dataset to identify key risk factors and patterns using visualizations.
 ## Dataset
-<ahref:
+<ahref:https://github.com/raseena123-a/Lung-Cancer-Risk-Analysis-EDA-</ahref>
 ## Questions Explored
 1. What is the age distribution of patients?
 2. Do older people have a higher chance of lung cancer?
